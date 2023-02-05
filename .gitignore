@@ -27,3 +27,5 @@ fp-info-cache
 
 # ipynb checkpoints
 .ipynb_checkpoints
+
+*.DS_Store
