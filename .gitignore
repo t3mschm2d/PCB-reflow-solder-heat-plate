@@ -29,3 +29,5 @@ fp-info-cache
 .ipynb_checkpoints
 
 *.DS_Store
+
+*backups
